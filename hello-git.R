@@ -1,2 +1,3 @@
 a <-"Hello Git!'
 print (A)
+print(paste(a, "Hello branching!"))
